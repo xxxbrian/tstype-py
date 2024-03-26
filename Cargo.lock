@@ -310,8 +310,8 @@ dependencies = [
 
 [[package]]
 name = "tstype-rs"
-version = "0.1.1"
-source = "git+https://github.com/xxxbrian/tstype-rs#3603fc9e0fdcf5288af84c0c6167abeb650ea785"
+version = "0.1.2"
+source = "git+https://github.com/xxxbrian/tstype-rs#1b940b57a4219bfacb7359d4e49de804bd6b5410"
 dependencies = [
  "regex",
  "serde",
